@@ -1,3 +1,7 @@
+import os
+import sys
+
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), "src"))
 import streamlit as st
 
 from employability_prediction.pipeline.prediction_pipeline import (
