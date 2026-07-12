@@ -328,15 +328,8 @@ This repository contains:
 
 The application is deployed using **Streamlit Community Cloud**.
 
-### GitHub Repository
-
-**    **
-
-### Streamlit Live Application
-
-**   **
-
----
+- **Streamlit App:** https://graduate-employability-prediction.streamlit.app/
+- **GitHub Repository:** https://github.com/amilaindrajithbc-bit/Graduate_Employability_Prediction
 
 # 🔮 Future Improvements
 
